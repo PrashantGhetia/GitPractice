@@ -7,6 +7,7 @@ public class BuildCreation {
 	@Test
 	public void buildCreationTest() {
 		Reporter.log(" Build Created ",true);
+		Reporter.log("Hello",true);
 	}
 
 }
